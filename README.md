@@ -1,1 +1,1 @@
-This is a sample application built to gain familiarity wit Rails.
+This is a sample application built to gain familiarity with Rails.
